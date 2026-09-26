@@ -1,0 +1,19 @@
+{
+    "passed": 0,
+    "total": 2,
+    "all_passed": false,
+    "tests": [
+        {
+            "input": 4,
+            "expected": true,
+            "actual": false,
+            "passed": false
+        },
+        {
+            "input": 7,
+            "expected": false,
+            "actual": true,
+            "passed": false
+        }
+    ]
+}

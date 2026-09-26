@@ -1,0 +1,20 @@
+{
+    "hint_levels": [
+        {
+            "level": 1,
+            "goal": "Give a conceptual hint about what an even number should produce when divided by 2."
+        },
+        {
+            "level": 2,
+            "goal": "Point the student toward the modulo comparison without giving the corrected expression."
+        },
+        {
+            "level": 3,
+            "goal": "Help the student identify the specific mistake in their comparison."
+        },
+        {
+            "level": 4,
+            "goal": "Explain the mistake clearly and guide the student toward fixing it, but do not provide the complete solution."
+        }
+    ]
+}
