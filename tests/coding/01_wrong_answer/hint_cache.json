@@ -1,0 +1,18 @@
+{
+    "4c0a0b88aa341340d0218969b9d12ca59211fbec3201f4b2989febe0b95d28e8": {
+        "level": 1,
+        "text": "When you divide an even number by 2, what is the remainder? Think about that."
+    },
+    "f99925d716d98bd151cebceb837d9829aa69188355f868aaed5e9794c38643d3": {
+        "level": 2,
+        "text": "Think about what the value of\u202f`n % 2`\u202fshould be when\u202f`n`\u202fis even. What should you compare that value to?"
+    },
+    "47b7153244e91507dbfa60efda103113c7562f5c8866866b7b92decb0b64f38d": {
+        "level": 3,
+        "text": "When\u202f`n`\u202fis even, what does\u202f`n % 2`\u202freturn? Use that result in your comparison."
+    },
+    "c70558a933dd6fc78b853bbdab2753cf440c65c44b3758e1af371a5147e8d7bb": {
+        "level": 4,
+        "text": "Check the value that `n % 2` returns for an even number. Does comparing that result to `1` correctly reflect the \u201ceven\u201d condition?"
+    }
+}
