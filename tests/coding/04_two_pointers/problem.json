@@ -1,0 +1,14 @@
+{
+    "id": "py-two-pointer-001",
+    "title": "Two Sum in a Sorted Array",
+    "description": "Given a sorted list of integers and a target value, return the indices of two numbers whose sum equals the target. You may assume exactly one pair exists.",
+    "function_name": "two_sum",
+    "language": "python",
+    "difficulty": 2,
+    "concepts": [
+        "two-pointers",
+        "arrays",
+        "sorted-arrays",
+        "comparison"
+    ]
+}
