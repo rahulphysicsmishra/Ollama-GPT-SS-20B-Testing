@@ -1,0 +1,58 @@
+{
+    "submissions": [
+        {
+            "id": 1,
+            "passed": 0,
+            "total": 2,
+            "all_passed": false,
+            "tests": [
+                {
+                    "input": 4,
+                    "expected": true,
+                    "actual": false,
+                    "passed": false
+                },
+                {
+                    "input": 7,
+                    "expected": false,
+                    "actual": true,
+                    "passed": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "passed": 0,
+            "total": 2,
+            "all_passed": false,
+            "tests": [
+                {
+                    "input": 4,
+                    "expected": true,
+                    "actual": 0,
+                    "passed": false
+                },
+                {
+                    "input": 7,
+                    "expected": false,
+                    "actual": 1,
+                    "passed": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "passed": 0,
+            "total": 1,
+            "all_passed": false,
+            "tests": [
+                {
+                    "input": 4,
+                    "expected": true,
+                    "actual": "SyntaxError: '(' was never closed",
+                    "passed": false
+                }
+            ]
+        }
+    ]
+}

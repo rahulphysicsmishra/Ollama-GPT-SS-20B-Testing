@@ -1,0 +1,12 @@
+{
+    "id": "py-basic-001",
+    "title": "Check Even Number",
+    "description": "Write a function called is_even that returns True if a number is even and False otherwise.",
+    "function_name": "is_even",
+    "language": "python",
+    "concepts": [
+        "operators",
+        "modulo",
+        "boolean"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "submissions": [
+        {
+            "id": 1,
+            "description": "Logical mistake: checks for odd numbers instead of even numbers.",
+            "code": "def is_even(n):\n    return n % 2 == 1"
+        },
+        {
+            "id": 2,
+            "description": "Logical mistake: returns the remainder instead of a boolean.",
+            "code": "def is_even(n):\n    return n % 2"
+        },
+        {
+            "id": 3,
+            "description": "Syntax error: missing closing parenthesis.",
+            "code": "def is_even(n):\n    return n % 2 == 0\n\nprint(is_even(4"
+        }
+    ]
+}

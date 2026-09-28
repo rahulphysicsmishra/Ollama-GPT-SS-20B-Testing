@@ -1,0 +1,16 @@
+{
+    "submissions": [
+        {
+            "id": 1,
+            "code": "def is_even(n):\n    return n % 2 == 1"
+        },
+        {
+            "id": 2,
+            "code": "def is_even(n):\n    return n % 2"
+        },
+        {
+            "id": 3,
+            "code": "def is_even(n):\n    return n % 2 == 0"
+        }
+    ]
+}
